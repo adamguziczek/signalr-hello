@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v1iGkr2G3MiTsyyJteJvYvGwVOD894rLHjWI+hMSN5Y=",
+  "Source": "HelloWorldServer",
+  "BasePath": "_content/HelloWorldServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
